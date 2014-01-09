@@ -13,7 +13,7 @@ main ()
 
 	while (start <= stop) 
 		{
-		printf("%d\n", start);
+		printf("%2.1f\n", start);
 		start = start+change;
 		}
 	
