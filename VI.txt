@@ -1,0 +1,28 @@
+'140313h 1337
+
+*LIST OF VI KEYS AND COMMANDS*
+
+ESC command mode
+i insert mode
+a append at endofline
+R replace mode
+
+0 beginning of line
+^ first non-blank
+$ end of line
+W next WORD
+w next word
+E end WORD
+e end word
+B prev WORD
+b prev word
+
+j/k down/up
+h/l left/ right
+
+X backspace
+x delete
+u undo
+
+
+

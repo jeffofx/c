@@ -1,0 +1,7 @@
+11:07 AM 9/01/2014
+
+K&R notes
+
+I assuems some familiarity with variables, assigment statements, loops, functions
+
+p17 on != order of operation and resultant boolean value

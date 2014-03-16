@@ -14,7 +14,7 @@ main()
 
 		;
 
-	printf ("%.0f\n", nc);
+	printf ("\n%.0f\n", nc);
 
 
 }
